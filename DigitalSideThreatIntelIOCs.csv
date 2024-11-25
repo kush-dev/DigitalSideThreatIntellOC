@@ -1,4 +1,4 @@
-uuid,event_id,IP Address,category,type,value,comment,to_ids,date,object_relation,attribute_tag,object_uuid,object_name,object_meta_category
+uuid,event_id,IP,category,type,value,comment,to_ids,date,object_relation,attribute_tag,object_uuid,object_name,object_meta_category
 838f9b24-f591-406b-843d-ca79dc53a417,13641,48.49.97.216,Payload delivery,filename,madey.exe,,0,1729007653,,,,,
 03dc7455-bf39-426f-9832-694c6b6457d8,13641,107.181.111.113,Payload delivery,md5,689ff816fc3db38894e81abbdf63c02b,,1,1729007653,,,,,
 d79816ff-1b33-4211-9c62-40e7af9f32d1,13641,156.50.177.233,Payload delivery,sha1,aceb8ce81d4724d77a1b3031015f6e60d1139352,,1,1729007653,,,,,
